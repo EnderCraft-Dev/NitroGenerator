@@ -7,8 +7,8 @@ How to use it?
 
 
 2. Enter the amount of codes that you want to generate
-![image](https://user-images.githubusercontent.com/89426850/163226868-3223e4e5-3912-4395-95ea-0110dd3fc96a.png)
+![image](https://user-images.githubusercontent.com/89426850/163227053-7014881a-2fc7-49fa-8b8d-a95d1f01b68f.png)
 
 
 The program will open a  file called CODES.txt, inside it are all the generated codes.
-![image](https://user-images.githubusercontent.com/89426850/163226525-2c45e157-6346-4e60-94c2-5fa68fa2970d.png)
+![image](https://user-images.githubusercontent.com/89426850/163227082-75979ef9-f6f0-4619-ab70-4f89b73a8597.png)
